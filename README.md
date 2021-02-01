@@ -1,2 +1,2 @@
-# Calendar
-Vanilla Js Calendar
+# vanilla-js-calendar
+A simple calendar in vanilla JavaScript
